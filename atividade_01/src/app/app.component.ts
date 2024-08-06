@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { addIcons } from 'ionicons';
+import { heart } from 'ionicons/icons';
 
 @Component({
   selector: 'app-root',
